@@ -1,13 +1,27 @@
 body {
     margin: 0;
-    text-align: center;
+}
+
+#main-container {
+    width: 550px;
+    height: 550px;
+    top: 64px;
+    left: 62px;
+    margin-left: 10%;
 }
 
 h1 {
-    
+   width: 354px;
+   height: 80px;
+   top: 115px;
+   left: 52px; 
+
+   font-size: 40px;
+   line-height: 40px;
+   letter-spacing: -0.025em;
 }
 
-div {
+#password-container {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
