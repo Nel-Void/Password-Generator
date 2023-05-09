@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
